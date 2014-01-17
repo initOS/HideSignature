@@ -1,0 +1,10 @@
+div.signature-frame,
+.signature-frame div {
+    padding: 0;
+}
+.signature-frame > a {
+    color: #222;
+}
+.signature-frame .signature {
+    display: none;
+}
